@@ -14,4 +14,18 @@ Matthew Pooser
 
 ### Acknowledgements
 
-Dr. Sheng Li, Assistant Professor in Computer Science at UGA 
+Dr. Sheng Li, Assistant Professor in Computer Science at UGA
+
+### Dependencies
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Imblearn
+
+### Installation
+
+`$ git clone git@github.com:mpooser/csci4960-stars-galaxies-fa19.git`
+
