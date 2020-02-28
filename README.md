@@ -14,7 +14,7 @@ Matthew Pooser
 
 ### Acknowledgements
 
-Dr. (Sheng Li)[https://cobweb.cs.uga.edu/~shengli/], Assistant Professor in Computer Science at UGA
+Dr. [Sheng Li](https://cobweb.cs.uga.edu/~shengli/), Assistant Professor in Computer Science at UGA
 
 ### Dependencies
 
